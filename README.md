@@ -1,5 +1,5 @@
 # SIMPLE_CRUD_APP
-A basic node.js app to demonstrate Create, Retrieve, Update, Delete Operations
+A basic node.js app to demonstrate Create, Retrieve, Update, Delete Operations using MySQL Database management system in a Node.js Backend.
 
 ### Dependencies:
 1. http
